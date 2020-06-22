@@ -7,37 +7,52 @@
   </url>
   
   <url>
-    <loc>https://myurl.com/about/</loc>
+    <loc>https://myurl.com/posts/nikka-coffey-grain/</loc>
     <lastmod>2020-06-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/about/</loc>
+    <lastmod>2020-06-22</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/posts/</loc>
-    <lastmod>2020-06-21</lastmod>
+    <lastmod>2020-06-22</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/</loc>
-    <lastmod>2020-06-21</lastmod>
+    <lastmod>2020-06-22</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/page-list/</loc>
-    <lastmod>2020-06-21</lastmod>
+    <lastmod>2020-06-22</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/tags/</loc>
-    <lastmod>2020-06-21</lastmod>
+    <lastmod>2020-06-22</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/tags/scotch/</loc>
-    <lastmod>2020-06-21</lastmod>
+    <lastmod>2020-06-22</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/tags/laphroaig/</loc>
-    <lastmod>2020-06-21</lastmod>
+    <lastmod>2020-06-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/tags/japanese/</loc>
+    <lastmod>2020-06-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/tags/nikka/</loc>
+    <lastmod>2020-06-22</lastmod>
   </url>
 </urlset>
