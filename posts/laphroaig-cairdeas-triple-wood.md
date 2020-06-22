@@ -10,3 +10,12 @@ layout: layouts/post.njk
 ---
 
 The frog
+Dec 29, 2019
+
+Nose: bacon, syrup, deep honey
+Palate: sweet and smoky, raisins
+Finish: sweet and caramel 
+
+Jan 20, 2019
+
+Nose: peanut butter?
