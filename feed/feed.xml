@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Your Blog Name</title>
-	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	<title>The Snook Nook — A Whisky Blog</title>
+	<subtitle>Keeping track of whiskies I&#39;ve tried</subtitle>
 	
-	<link href="https://myurl.com/feed/feed.xml" rel="self"/>
-	<link href="https://myurl.com/"/>
+	<link href="https://nook.snook.ca/feed/feed.xml" rel="self"/>
+	<link href="https://nook.snook.ca/"/>
 	<updated>2020-06-21T00:00:00-00:00</updated>
-	<id>https://myurl.com/</id>
+	<id>https://nook.snook.ca/</id>
 	<author>
-		<name>Your Name Here</name>
-		<email>youremailaddress@example.com</email>
+		<name>Jonathan Snook</name>
+		<email>jonathan@snook.ca</email>
 	</author>
 	
 	<entry>
 		<title>Laphroaig Cairdeas Triple Wood</title>
-		<link href="https://myurl.com/posts/laphroaig-cairdeas-triple-wood/"/>
+		<link href="https://nook.snook.ca/posts/laphroaig-cairdeas-triple-wood/"/>
 		<updated>2020-06-21T00:00:00-00:00</updated>
-		<id>https://myurl.com/posts/laphroaig-cairdeas-triple-wood/</id>
+		<id>https://nook.snook.ca/posts/laphroaig-cairdeas-triple-wood/</id>
 		<content type="html">&lt;p&gt;The frog&lt;br&gt;
 Dec 29, 2019&lt;/p&gt;
 &lt;p&gt;Nose: bacon, syrup, deep honey&lt;br&gt;
@@ -29,9 +29,9 @@ Finish: sweet and caramel&lt;/p&gt;
 	
 	<entry>
 		<title>Nikka Coffey Grain</title>
-		<link href="https://myurl.com/posts/nikka-coffey-grain/"/>
+		<link href="https://nook.snook.ca/posts/nikka-coffey-grain/"/>
 		<updated>2020-06-21T00:00:00-00:00</updated>
-		<id>https://myurl.com/posts/nikka-coffey-grain/</id>
+		<id>https://nook.snook.ca/posts/nikka-coffey-grain/</id>
 		<content type="html">&lt;p&gt;When there’s a whisky that I’d pick to introduce people to Japanese whisky or just whisky in general, this is the one.&lt;/p&gt;
 &lt;p&gt;Whenever people hear “Coffey”, they’ll either hear “coffee” or, if written, they’ll misread it as such. As a result, people are often surprised by the lack of any coffee flavour. Indeed, there is no coffee or coffee influence in this whisky. Coffey is in reference to the kind of still the whisky is made in.&lt;/p&gt;
 </content>
