@@ -6,6 +6,7 @@ date: 2020-06-21
 tags:
   - japanese
   - nikka
+img: /img/DSC01475.jpg
 layout: layouts/post.njk
 ---
 
@@ -16,3 +17,4 @@ Whenever people hear “Coffey”, they’ll either hear “coffee” or, if wri
 
 
 But I needed a bit more content to see how this all works with multiple paragraphs. 
+

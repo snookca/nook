@@ -3,7 +3,8 @@ body {
   grid-template-columns: 50px 1fr 50px;
   grid-template-rows: minmax(50px, min-content) 1fr 50px;
   grid-template-areas: ". header ." ". content ." ". footer .";
-  margin: 0;
+  margin: 0 auto;
+  max-width: 1400px;
   font-family: 'PT Serif',Georgia,Times,'Times New Roman',serif;
 }
 
@@ -122,8 +123,8 @@ footer {
 
 .article > :first-child {
   margin:0 0 .2em;
-  font-size: 2em;
-  line-height: 1.4;
+  font-size: 1.6em;
+  line-height: 1.5;
   text-indent: 0;
 }
 
