@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "The Snook Nook — A Whisky Blog",
+  "url": "https://nook.snook.ca/",
+  "description": "Keeping track of whiskies I've tried",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Keeping track of whiskies I've tried",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://nook.snook.ca/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Jonathan Snook",
+    "email": "jonathan@snook.ca"
   }
 }
