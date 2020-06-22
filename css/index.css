@@ -8,7 +8,7 @@ body {
 
 p {
   font-size: 1.2em;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 @media screen and (max-width: 550px) {
@@ -112,6 +112,26 @@ footer {
   grid-area: content;
   border-top: 1px solid #333;
   padding-top: 50px;
+}
+
+.article > p {
+  margin: 0;
+  text-indent: 2em;
+}
+
+.article > :first-child {
+  margin:0 0 .2em;
+  font-size: 2em;
+  line-height: 1.3;
+  text-indent: 0;
+}
+
+.article > :nth-child(2) {
+  text-indent: 0;
+}
+
+.article > :first-child:first-line {
+  box-shadow: inset 0 -0.75em 0 #F8E8C5;
 }
 
 .sidebar {
