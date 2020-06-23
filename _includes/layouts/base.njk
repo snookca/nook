@@ -4,14 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ renderData.title or title or metadata.title }}</title>
-    <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="stylesheet" href="https://use.typekit.net/bbi4bkw.css">
 
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
 
-  <meta property="og:image" content="{{ img }}">
-  <meta name="twitter:card" content="summary_large_image">
+    <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
+    <meta property="og:description" content="{{ renderData.description or description or metadata.description }}">
+    <meta property="og:title" content="{{ renderData.title or title or metadata.title">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="{{ img }}">
+    <meta name="twitter:card" content="summary_large_image">
 
   </head>
   <body>
