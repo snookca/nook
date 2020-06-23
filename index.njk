@@ -5,10 +5,26 @@ eleventyNavigation:
   order: 1
 ---
 
-<h1>Latest 3 Posts</h1>
+<div class="head">
+    <h2>An Exploration of Flavour</h2>
+    <h3>Whisky</h3>
+</div>
 
-{% set postslist = collections.posts | head(-3) %}
+<div class="content">
+<div class="sidebar">
+
+<p>Welcome to my library of whiskies. My journey into whisky is both short and long. For many years, friends had tried to introduce me to it and I shuddered with every sip. For some reason, it did not do anything for me. I preferred to stick to my screwdrivers and long islands. </p>
+
+<p>Something clicked and ever since, I have had the opportunity to explore many whiskies from many regions. I have quickly grown my personal collection of whiskies over the last few years.</p>
+
+<p>Of course, people have different tastes. These are mine. I wanted a place to document what I've tried and remember what I have in my collection. I hope you enjoy this, too.</p>
+</div>
+<div class="article">
+<h1>The Whiskies</h1>
+
+{% set postslist = collections.posts %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+</div>
+</div>

@@ -6,6 +6,7 @@ date: 2020-06-21
 tags:
   - scotch
   - laphroaig
+  - islay
 layout: layouts/post.njk
 ---
 
