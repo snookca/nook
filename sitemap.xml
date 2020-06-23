@@ -42,11 +42,6 @@
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/scotch/</loc>
-    <lastmod>2020-06-23</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nook.snook.ca/tags/bruichladdich/</loc>
     <lastmod>2020-06-23</lastmod>
   </url>
@@ -57,12 +52,22 @@
   </url>
   
   <url>
+    <loc>https://nook.snook.ca/tags/islay/</loc>
+    <lastmod>2020-06-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nook.snook.ca/tags/japanese/</loc>
     <lastmod>2020-06-23</lastmod>
   </url>
   
   <url>
     <loc>https://nook.snook.ca/tags/nikka/</loc>
+    <lastmod>2020-06-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nook.snook.ca/tags/scotch/</loc>
     <lastmod>2020-06-23</lastmod>
   </url>
 </urlset>
