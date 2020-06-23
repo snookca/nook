@@ -6,6 +6,7 @@ date: 2020-06-22
 tags:
   - scotch
   - bruichladdich
+  - islay
 img: /img/DSC01475.jpg
 layout: layouts/post.njk
 ---
