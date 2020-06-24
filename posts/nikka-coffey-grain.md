@@ -6,7 +6,7 @@ date: 2020-06-21
 tags:
   - japanese
   - nikka
-img: /img/DSC01475.jpg
+img: /img/nikka-coffey-grain.jpg
 layout: layouts/post.njk
 ---
 

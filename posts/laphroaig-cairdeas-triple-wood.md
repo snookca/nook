@@ -3,6 +3,7 @@ title: Laphroaig Cairdeas Triple Wood
 type: Scotch
 description: Laphoaig has a winner with this cask strength number
 date: 2020-06-21
+img: /img/laphroaig-cairdeas-tw.jpg
 tags:
   - scotch
   - laphroaig
