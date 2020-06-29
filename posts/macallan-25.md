@@ -16,7 +16,7 @@ I’m not normally a fan of Macallan but thought I’d give a high-end expressio
 
 The packaging is lovely. A wooden case held closed with magnets opens up to a liner describing the whisky and two wooden slats holding the bottle in place. 
 
-On my first opening of the bottle, I gave a pour, added some water, and let it breath for a bit. 
+On my first opening of the bottle, I gave a pour, added some water, and let it breathe for a bit. 
 
 On the nose, a definite maple syrup smell comes through but on the palate, I find the taste rather muted and underwhelming. 
 
