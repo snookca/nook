@@ -23,4 +23,8 @@ Maple syrup isn’t a tasting note mentioned on the Macallan web site, so I’m 
 
 On the palate, I’m noticing the cinnamon but still, overall, rather underwhelming. 
 
+[Thirty minutes later.] 
+
+The glass, nearly empty, has been sitting there. I lift it up to finish off the last gulp that remains and… there’s that maple syrup smell again. So odd. It’s still not enough to redeem this rather mediocre whisky, unfortunately.
+
 It’s safe to say that I’m not a fan of Macallan and spending more money definitely hasn’t changed my mind. 
