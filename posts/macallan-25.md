@@ -3,6 +3,7 @@ title: Macallan 25
 type: Scotch
 description: Oaky disappointment
 date: 2020-06-28
+abv: 43%
 tags:
   - scotch
   - macallan
