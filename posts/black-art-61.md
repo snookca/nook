@@ -7,7 +7,7 @@ tags:
   - scotch
   - bruichladdich
   - islay
-img: /img/DSC01475.jpg
+img: /img/black-art.jpg
 layout: layouts/post.njk
 ---
 

@@ -3,7 +3,7 @@ title: Balvenie 15 Year Single Barrel Sherry Cask
 type: Scotch
 description: Musty basement
 date: 2020-06-29
-abv: 54.9%
+abv: 47.8%
 tags:
   - scotch
   - balvenie
