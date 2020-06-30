@@ -23,7 +23,7 @@ eleventyExcludeFromCollections: true
 		<updated>{{ post.date | rssDate }}</updated>
 		<id>{{ absolutePostUrl }}</id>
 		<content type="html">
-      &lt;img src="https://nook.snook.ca/{{ post.data.img }}"&gt;
+      &lt;img src=&quot;https://nook.snook.ca{{ post.data.img }}&quot;&gt;
       {{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}
     </content>
 	</entry>
