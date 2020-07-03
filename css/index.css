@@ -122,6 +122,10 @@ footer {
   padding-top: 50px;
 }
 
+.simplecontainer {
+
+}
+
 .article > p {
   margin: 0;
   text-indent: 2em;
@@ -173,6 +177,10 @@ img {
     grid-template-rows: min-content min-content;
     grid-template-areas: ". sidebar ." ". content .";
     gap: 0px;
+  }
+
+  .simplecontainer {
+    padding: 20px;
   }
 }
 

@@ -23,11 +23,12 @@ img: /img/whiskies.jpg
 <p>Of course, people have different tastes. These are mine. I wanted a place to document what I've tried and remember what I have in my collection. I hope you enjoy this, too.</p>
 </div>
 <div class="article">
-<h1>The Whiskies</h1>
+<h1>Latest Reviews</h1>
 
-{% set postslist = collections.posts %}
+{% set postslist = collections.posts | head(-6) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
+<a href="/posts/">See the list of all whiskies</a>
 </div>
 </div>
