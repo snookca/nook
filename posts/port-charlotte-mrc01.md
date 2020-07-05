@@ -1,7 +1,7 @@
 ---
 title: Port Charlotte MRC:01 2010
 type: Scotch
-description: Complex, interesting, and flavourful
+description: Intense grassy ash
 date: 2020-07-04
 tags:
   - scotch
