@@ -4,6 +4,7 @@ type: American
 description: Easy caramel corn
 date: 2020-07-05
 abv: 50%
+bottles: 1
 tags:
   - american
   - bourbon
