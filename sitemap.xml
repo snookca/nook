@@ -67,6 +67,11 @@
   </url>
   
   <url>
+    <loc>https://nook.snook.ca/posts/dalmore-cigarmalt/</loc>
+    <lastmod>2020-07-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nook.snook.ca/about/</loc>
     <lastmod>2020-07-10</lastmod>
   </url>
@@ -122,7 +127,17 @@
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/american/</loc>
+    <loc>https://nook.snook.ca/tags/dalmore/</loc>
+    <lastmod>2020-07-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nook.snook.ca/tags/highland/</loc>
+    <lastmod>2020-07-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nook.snook.ca/tags/aberlour/</loc>
     <lastmod>2020-07-10</lastmod>
   </url>
   
@@ -132,7 +147,7 @@
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/aberlour/</loc>
+    <loc>https://nook.snook.ca/tags/kentucky%20straight/</loc>
     <lastmod>2020-07-10</lastmod>
   </url>
   
@@ -152,11 +167,6 @@
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/highland/</loc>
-    <lastmod>2020-07-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nook.snook.ca/tags/japanese/</loc>
     <lastmod>2020-07-10</lastmod>
   </url>
@@ -172,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/kentucky%20straight/</loc>
+    <loc>https://nook.snook.ca/tags/american/</loc>
     <lastmod>2020-07-10</lastmod>
   </url>
 </urlset>
