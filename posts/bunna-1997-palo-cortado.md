@@ -4,6 +4,7 @@ type: Scotch
 description: Creamy, rich, and dry
 date: 2020-06-28
 abv: 54.9%
+bottles: 1
 tags:
   - scotch
   - bunnahabhain

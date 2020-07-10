@@ -4,6 +4,7 @@ type: Scotch
 description: Musty basement
 date: 2020-06-29
 abv: 47.8%
+bottles: 0
 tags:
   - scotch
   - balvenie
