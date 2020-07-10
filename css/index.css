@@ -235,6 +235,7 @@ img {
 
 @media (prefers-color-scheme: dark) {
   body { background-color: #000; }
+  footer { color: #666; }
   a { color: #D9BF87; text-decoration-color: #382B24; }
   .body { background-color: #1A1919; color: #D9BF87; }
   .site a { color: #FFF; }
