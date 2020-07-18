@@ -87,6 +87,11 @@
   </url>
   
   <url>
+    <loc>https://nook.snook.ca/posts/kujira-20/</loc>
+    <lastmod>2020-07-17</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nook.snook.ca/posts/nikka-fromthebarrel/</loc>
     <lastmod>2020-07-17</lastmod>
   </url>
@@ -152,12 +157,12 @@
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/scotch/</loc>
+    <loc>https://nook.snook.ca/tags/dalmore/</loc>
     <lastmod>2020-07-18</lastmod>
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/highland/</loc>
+    <loc>https://nook.snook.ca/tags/scotch/</loc>
     <lastmod>2020-07-18</lastmod>
   </url>
   
@@ -182,17 +187,22 @@
   </url>
   
   <url>
+    <loc>https://nook.snook.ca/tags/japanese/</loc>
+    <lastmod>2020-07-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nook.snook.ca/tags/rice/</loc>
+    <lastmod>2020-07-18</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nook.snook.ca/tags/laphroaig/</loc>
     <lastmod>2020-07-18</lastmod>
   </url>
   
   <url>
     <loc>https://nook.snook.ca/tags/macallan/</loc>
-    <lastmod>2020-07-18</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nook.snook.ca/tags/japanese/</loc>
     <lastmod>2020-07-18</lastmod>
   </url>
   
@@ -207,7 +217,7 @@
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/dalmore/</loc>
+    <loc>https://nook.snook.ca/tags/highland/</loc>
     <lastmod>2020-07-18</lastmod>
   </url>
 </urlset>
