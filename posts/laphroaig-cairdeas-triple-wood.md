@@ -4,6 +4,8 @@ type: Scotch
 description: Laphoaig has a winner with this cask strength number
 date: 2020-06-21
 img: /img/laphroaig-cairdeas-tw.jpg
+bottles: 3
+abv: 59.5%
 tags:
   - scotch
   - laphroaig

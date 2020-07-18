@@ -225,6 +225,10 @@ img {
   text-decoration: none;
 }
 
+.meta {
+  margin-top: 50px;
+}
+
 @media (hover) {
   .tagg:hover {
     text-decoration: underline;

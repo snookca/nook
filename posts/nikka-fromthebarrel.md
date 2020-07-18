@@ -3,6 +3,7 @@ title: Nikka Whisky From The Barrel
 type: Japanese
 description: Complex Sweetness with a hint of Floral
 date: 2020-07-17
+abv: 54.1%
 bottles: 1
 tags:
   - japanese

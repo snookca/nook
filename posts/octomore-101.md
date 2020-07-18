@@ -3,6 +3,8 @@ title: Octomore 10.1
 type: Scotch
 description: Young, smokey, and minty
 date: 2020-06-25
+abv: 59.8%
+bottles: 1
 tags:
   - scotch
   - bruichladdich

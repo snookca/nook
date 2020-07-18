@@ -23,6 +23,12 @@ templateClass: tmpl-post
 {% endfor %}
 </div>
 
+<div class="meta">
+ {% if abv %}<div>{{ abv }} ABV</div>{% endif %}
+ <div>First reviewed: {{ date | readableDate }}</div>
+ {% if bottles > 0 %}<div>In the library</div>{% endif %}
+</div>
+
     </div>
   </div>
 

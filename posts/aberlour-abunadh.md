@@ -3,6 +3,8 @@ title: Aberlour A’bunadh
 type: Scotch
 description: Sherry ba-bomb.
 date: 2020-06-27
+abv: 59.2%
+bottles: 2
 tags:
   - scotch
   - aberlour

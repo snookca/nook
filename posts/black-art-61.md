@@ -3,6 +3,8 @@ title: Black Art 6.1
 type: Scotch
 description: Complex, interesting, and flavourful
 date: 2020-06-22
+bottles: 1
+abv: 46.9%
 tags:
   - scotch
   - bruichladdich

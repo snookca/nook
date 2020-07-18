@@ -3,6 +3,8 @@ title: Nikka Coffey Malt
 type: Japanese
 description: A decent Japanese whisky.
 date: 2020-06-23
+bottles: 3
+abv: 45%
 tags:
   - japanese
   - nikka

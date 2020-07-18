@@ -4,6 +4,7 @@ type: Japanese
 description: Fantastic value for a whisky 
 date: 2020-06-21
 bottles: 8
+abv: 45.6%
 tags:
   - japanese
   - nikka
