@@ -3,6 +3,7 @@ title: Nikka Coffey Grain
 type: Japanese
 description: Fantastic value for a whisky 
 date: 2020-06-21
+bottles: 8
 tags:
   - japanese
   - nikka
