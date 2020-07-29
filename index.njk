@@ -25,9 +25,26 @@ img: /img/whiskies.jpg
 <div class="article">
 <h1>Latest Reviews</h1>
 
-{% set postslist = collections.posts | head(-6) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
+{% set postslist = collections.posts | head(-6) | reverse %}
+
+
+<div>
+{% for post in postslist %}
+  <div class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+    <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+    <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+    <div>
+    {% for tag in post.data.tags %}
+      {%- if collections.tagList.indexOf(tag) != -1 -%}
+      {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+      <a href="{{ tagUrl | url }}" class="tagg">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
+    </div>
+  </div>
+{% endfor %}
+</div>
+
 
 <a href="/posts/">See the list of all whiskies</a>
 </div>

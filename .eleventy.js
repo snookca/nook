@@ -19,6 +19,14 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
   });
 
+  eleventyConfig.addFilter('sortTitle', collection => {
+    return collection.sort((a, b) => {
+      if (a.data.title < b.data.title) { return -1; }
+      if (a.data.title > b.data.title) { return 1; }
+      return 0;
+    });
+  });
+
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
