@@ -20,7 +20,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter('sortTitle', collection => {
-    return collection.sort((a, b) => {
+    return collection.map((x)=>x).sort((a, b) => {
       if (a.data.title < b.data.title) { return -1; }
       if (a.data.title > b.data.title) { return 1; }
       return 0;
