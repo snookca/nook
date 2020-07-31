@@ -219,6 +219,11 @@ img {
   justify-self: end;
 }
 
+p.glassdivider {
+  text-align: center;
+  margin: 50px;
+}
+
 .tagg {
   font-size: .8em;
   color: #666;

@@ -14,6 +14,7 @@ templateClass: tmpl-post
     <div class="article">
       {{ content | safe }}
 
+<p class="glassdivider"><img src="/img/glass.png" width="126" height="110" style="width:auto" alt="An empty whisky glass"></p>
 <div class="tags">
 {% for tag in tags %}
   {%- if collections.tagList.indexOf(tag) != -1 -%}
