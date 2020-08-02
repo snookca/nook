@@ -2,9 +2,9 @@
 title: Orphan Barrel Rhetoric 24
 type: American
 description: That's a sweet ash
-date: 2020-07-30
-bottles: 3
-abv: 54.2%
+date: 2020-08-01
+bottles: 1
+abv: 45.4%
 tags:
   - american
   - bourbon
