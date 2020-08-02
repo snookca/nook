@@ -127,6 +127,11 @@
   </url>
   
   <url>
+    <loc>https://nook.snook.ca/posts/old-ezra-7/</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nook.snook.ca/about/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
@@ -207,12 +212,12 @@
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/aberlour/</loc>
+    <loc>https://nook.snook.ca/tags/bourbon/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/kentucky%20straight/</loc>
+    <loc>https://nook.snook.ca/tags/aberlour/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   
@@ -257,6 +262,11 @@
   </url>
   
   <url>
+    <loc>https://nook.snook.ca/tags/lux%20row/</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nook.snook.ca/tags/port%20charlotte/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
@@ -267,7 +277,7 @@
   </url>
   
   <url>
-    <loc>https://nook.snook.ca/tags/bourbon/</loc>
+    <loc>https://nook.snook.ca/tags/kentucky%20straight/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
 </urlset>
