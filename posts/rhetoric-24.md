@@ -1,7 +1,7 @@
 ---
 title: Orphan Barrel Rhetoric 24
 type: American
-description: That's a sweet ash
+description: Cherry Chocolate
 date: 2020-08-01
 bottles: 1
 abv: 45.4%
