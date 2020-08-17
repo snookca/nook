@@ -5,7 +5,7 @@
 	
 	<link href="https://nook.snook.ca/feed/feed.xml" rel="self"/>
 	<link href="https://nook.snook.ca/"/>
-	<updated>2020-08-02T00:00:00-00:00</updated>
+	<updated>2020-08-02T00:00:00+00:00</updated>
 	<id>https://nook.snook.ca/</id>
 	<author>
 		<name>Jonathan Snook</name>
@@ -15,7 +15,7 @@
 	<entry>
 		<title>Laphroaig Cairdeas Triple Wood</title>
 		<link href="https://nook.snook.ca/posts/laphroaig-cairdeas-triple-wood/"/>
-		<updated>2020-06-21T00:00:00-00:00</updated>
+		<updated>2020-06-21T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/laphroaig-cairdeas-triple-wood/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/laphroaig-cairdeas-tw.jpg&quot;&gt;
@@ -35,7 +35,7 @@
 	<entry>
 		<title>Nikka Coffey Grain</title>
 		<link href="https://nook.snook.ca/posts/nikka-coffey-grain/"/>
-		<updated>2020-06-21T00:00:00-00:00</updated>
+		<updated>2020-06-21T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/nikka-coffey-grain/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/nikka-coffey-grain.jpg&quot;&gt;
@@ -54,7 +54,7 @@
 	<entry>
 		<title>Black Art 6.1</title>
 		<link href="https://nook.snook.ca/posts/black-art-61/"/>
-		<updated>2020-06-22T00:00:00-00:00</updated>
+		<updated>2020-06-22T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/black-art-61/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/black-art.jpg&quot;&gt;
@@ -75,7 +75,7 @@
 	<entry>
 		<title>Nikka Coffey Malt</title>
 		<link href="https://nook.snook.ca/posts/nikka-coffey-malt/"/>
-		<updated>2020-06-23T00:00:00-00:00</updated>
+		<updated>2020-06-23T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/nikka-coffey-malt/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/nikka-coffey-malt.jpg&quot;&gt;
@@ -94,7 +94,7 @@
 	<entry>
 		<title>Octomore 10.1</title>
 		<link href="https://nook.snook.ca/posts/octomore-101/"/>
-		<updated>2020-06-25T00:00:00-00:00</updated>
+		<updated>2020-06-25T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/octomore-101/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/octomore-101.jpg&quot;&gt;
@@ -114,7 +114,7 @@
 	<entry>
 		<title>Aberlour A’bunadh</title>
 		<link href="https://nook.snook.ca/posts/aberlour-abunadh/"/>
-		<updated>2020-06-27T00:00:00-00:00</updated>
+		<updated>2020-06-27T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/aberlour-abunadh/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/aberlour-abunadh.jpg&quot;&gt;
@@ -140,7 +140,7 @@
 	<entry>
 		<title>Bunnahabhain 1997 Palo Cortado Cask Finish</title>
 		<link href="https://nook.snook.ca/posts/bunna-1997-palo-cortado/"/>
-		<updated>2020-06-28T00:00:00-00:00</updated>
+		<updated>2020-06-28T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/bunna-1997-palo-cortado/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/bunna-1997-palo-cortado.jpg&quot;&gt;
@@ -160,7 +160,7 @@
 	<entry>
 		<title>Macallan 25</title>
 		<link href="https://nook.snook.ca/posts/macallan-25/"/>
-		<updated>2020-06-28T00:00:00-00:00</updated>
+		<updated>2020-06-28T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/macallan-25/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/macallan-25.jpg&quot;&gt;
@@ -184,7 +184,7 @@
 	<entry>
 		<title>Balvenie 14 Year Caribbean Cask</title>
 		<link href="https://nook.snook.ca/posts/balvenie-14-caribbean/"/>
-		<updated>2020-06-29T00:00:00-00:00</updated>
+		<updated>2020-06-29T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/balvenie-14-caribbean/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/balvenie-14-caribbean.jpg&quot;&gt;
@@ -203,7 +203,7 @@
 	<entry>
 		<title>Balvenie 15 Year Single Barrel Sherry Cask</title>
 		<link href="https://nook.snook.ca/posts/balvenie-15-sherry/"/>
-		<updated>2020-06-29T00:00:00-00:00</updated>
+		<updated>2020-06-29T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/balvenie-15-sherry/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/balvenie-15-sherry.jpg&quot;&gt;
@@ -223,7 +223,7 @@
 	<entry>
 		<title>Port Charlotte MRC:01 2010</title>
 		<link href="https://nook.snook.ca/posts/port-charlotte-mrc01/"/>
-		<updated>2020-07-04T00:00:00-00:00</updated>
+		<updated>2020-07-04T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/port-charlotte-mrc01/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/port-charlotte-mrc1.jpg&quot;&gt;
@@ -246,7 +246,7 @@
 	<entry>
 		<title>Colonel EH Taylor Small Batch</title>
 		<link href="https://nook.snook.ca/posts/eh-taylor-small-batch/"/>
-		<updated>2020-07-05T00:00:00-00:00</updated>
+		<updated>2020-07-05T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/eh-taylor-small-batch/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/ehtaylor-smallbatch.jpg&quot;&gt;
@@ -265,7 +265,7 @@
 	<entry>
 		<title>Weller Special Reserve</title>
 		<link href="https://nook.snook.ca/posts/weller-special-reserve/"/>
-		<updated>2020-07-05T00:00:00-00:00</updated>
+		<updated>2020-07-05T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/weller-special-reserve/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/weller-sr.jpg&quot;&gt;
@@ -283,7 +283,7 @@
 	<entry>
 		<title>Dalmore Cigar Malt Reserve</title>
 		<link href="https://nook.snook.ca/posts/dalmore-cigarmalt/"/>
-		<updated>2020-07-10T00:00:00-00:00</updated>
+		<updated>2020-07-10T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/dalmore-cigarmalt/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/dalmore-cigarmalt.jpg&quot;&gt;
@@ -303,7 +303,7 @@
 	<entry>
 		<title>Dalmore Port Wood Reserve</title>
 		<link href="https://nook.snook.ca/posts/dalmore-portwood/"/>
-		<updated>2020-07-10T00:00:00-00:00</updated>
+		<updated>2020-07-10T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/dalmore-portwood/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/dalmore-portwood.jpg&quot;&gt;
@@ -322,7 +322,7 @@
 	<entry>
 		<title>Collingwood</title>
 		<link href="https://nook.snook.ca/posts/collingwood/"/>
-		<updated>2020-07-12T00:00:00-00:00</updated>
+		<updated>2020-07-12T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/collingwood/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/collingwood.jpg&quot;&gt;
@@ -343,7 +343,7 @@
 	<entry>
 		<title>Little Book Chapter 2: Noe Simple Task</title>
 		<link href="https://nook.snook.ca/posts/littlebook-chapter2/"/>
-		<updated>2020-07-13T00:00:00-00:00</updated>
+		<updated>2020-07-13T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/littlebook-chapter2/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/littlebook2.jpg&quot;&gt;
@@ -363,7 +363,7 @@
 	<entry>
 		<title>Kujira 20</title>
 		<link href="https://nook.snook.ca/posts/kujira-20/"/>
-		<updated>2020-07-17T00:00:00-00:00</updated>
+		<updated>2020-07-17T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/kujira-20/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/kujira20.jpg&quot;&gt;
@@ -384,7 +384,7 @@
 	<entry>
 		<title>Nikka Whisky From The Barrel</title>
 		<link href="https://nook.snook.ca/posts/nikka-fromthebarrel/"/>
-		<updated>2020-07-17T00:00:00-00:00</updated>
+		<updated>2020-07-17T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/nikka-fromthebarrel/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/nikka-fromthebarrel.jpg&quot;&gt;
@@ -404,7 +404,7 @@
 	<entry>
 		<title>Laphroaig 30 The Ian Hunter Story - Book 1</title>
 		<link href="https://nook.snook.ca/posts/laphroaig-30-ianhunter/"/>
-		<updated>2020-07-19T00:00:00-00:00</updated>
+		<updated>2020-07-19T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/laphroaig-30-ianhunter/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/laphroaig-30.jpg&quot;&gt;
@@ -429,7 +429,7 @@ Here in Ontario, they do allotments where you put your name in and hopefully get
 	<entry>
 		<title>Kaiyo Mizunara Cask</title>
 		<link href="https://nook.snook.ca/posts/kaiyo-mizunara-cask/"/>
-		<updated>2020-07-26T00:00:00-00:00</updated>
+		<updated>2020-07-26T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/kaiyo-mizunara-cask/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/kaiyo-mizunara.jpg&quot;&gt;
@@ -448,7 +448,7 @@ Here in Ontario, they do allotments where you put your name in and hopefully get
 	<entry>
 		<title>The Matsui Mizunara Cask</title>
 		<link href="https://nook.snook.ca/posts/matsui-mizunara-cask/"/>
-		<updated>2020-07-26T00:00:00-00:00</updated>
+		<updated>2020-07-26T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/matsui-mizunara-cask/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/matsui-mizunara.jpg&quot;&gt;
@@ -467,7 +467,7 @@ Here in Ontario, they do allotments where you put your name in and hopefully get
 	<entry>
 		<title>Ardbeg An Oa</title>
 		<link href="https://nook.snook.ca/posts/ardbeg-an-oa/"/>
-		<updated>2020-07-27T00:00:00-00:00</updated>
+		<updated>2020-07-27T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/ardbeg-an-oa/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/ardbeg-an-oa.jpg&quot;&gt;
@@ -488,7 +488,7 @@ Here in Ontario, they do allotments where you put your name in and hopefully get
 	<entry>
 		<title>Ardbeg Uigeadail</title>
 		<link href="https://nook.snook.ca/posts/ardbeg-uigeadail/"/>
-		<updated>2020-07-30T00:00:00-00:00</updated>
+		<updated>2020-07-30T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/ardbeg-uigeadail/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/ardbeg-uigeadail.jpg&quot;&gt;
@@ -509,7 +509,7 @@ Here in Ontario, they do allotments where you put your name in and hopefully get
 	<entry>
 		<title>Orphan Barrel Rhetoric 24</title>
 		<link href="https://nook.snook.ca/posts/rhetoric-24/"/>
-		<updated>2020-08-01T00:00:00-00:00</updated>
+		<updated>2020-08-01T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/rhetoric-24/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/rhetoric-24.jpg&quot;&gt;
@@ -529,7 +529,7 @@ Here in Ontario, they do allotments where you put your name in and hopefully get
 	<entry>
 		<title>Old Ezra 7</title>
 		<link href="https://nook.snook.ca/posts/old-ezra-7/"/>
-		<updated>2020-08-02T00:00:00-00:00</updated>
+		<updated>2020-08-02T00:00:00+00:00</updated>
 		<id>https://nook.snook.ca/posts/old-ezra-7/</id>
 		<content type="html">
       &lt;img src=&quot;https://nook.snook.ca/img/old-ezra-7.jpg&quot;&gt;
