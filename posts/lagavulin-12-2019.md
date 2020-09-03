@@ -1,7 +1,7 @@
 ---
 title: Lagavulin 12 (2019)
 type: Scotch
-description: Light floral peat
+description: Smoky minty grassy
 date: 2020-09-03
 abv: 48%
 bottles: 1
