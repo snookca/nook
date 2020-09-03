@@ -1,7 +1,7 @@
 ---
 title: Port Charlotte Islay Barley 2011
 type: Scotch
-description: Intense grassy ash
+description: Summer lovin’ lightness
 date: 2020-08-16
 abv: 50%
 bottles: 1
