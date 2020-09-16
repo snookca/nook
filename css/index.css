@@ -11,7 +11,7 @@ body {
 a {
   color: #333;
   text-decoration-color: #F5D899;
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: 3px;
 }
 
 p {
@@ -140,10 +140,6 @@ footer {
 
 .article > :nth-child(2) {
   text-indent: 0;
-}
-
-.article > :first-child:first-line {
-  box-shadow: inset 0 -0.75em 0 #F8E8C5;
 }
 
 .sidebar {
