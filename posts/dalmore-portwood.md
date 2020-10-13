@@ -5,6 +5,7 @@ description: Blue Cheese Raisin
 date: 2020-07-10
 abv: 46.5%
 bottles: 1 
+rating: 4. Underwhelming.
 tags:
   - scotch
   - dalmore

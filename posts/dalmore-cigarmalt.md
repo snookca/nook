@@ -5,6 +5,7 @@ description: Sweet Cigar Pairing
 date: 2020-07-10
 abv: 44%
 bottles: 2
+rating: 6. Very good.
 tags:
   - scotch
   - dalmore
