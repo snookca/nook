@@ -1,7 +1,7 @@
 ---
 title: Glenfarclas 40
 type: Scotch
-description: Smoky minty grassy
+description: Gentlemanly Raisin 
 date: 2020-10-12
 abv: 43%
 bottles: 1
