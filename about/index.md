@@ -17,7 +17,7 @@ The rating system I'm using is based on [t8ke's system](https://t8ke.review/scor
 1. **Disgusting.** So bad, I poured it out.
 2. **Poor.** I wouldn't consume it by choice.
 3. **Bad.** Multiple flaws.
-4. **Sub-par.** Tolerable.
+4. **Underwhelming**. Tolerable.
 5. **Good.** 
 6. **Very Good.**
 7. **Great.** Above average.
