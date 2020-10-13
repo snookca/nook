@@ -5,6 +5,7 @@ description: Gentlemanly Raisin
 date: 2020-10-12
 abv: 43%
 bottles: 1
+rating: 8. Excellent.
 tags:
   - scotch
   - glenfarclas

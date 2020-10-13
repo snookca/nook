@@ -25,8 +25,9 @@ templateClass: tmpl-post
 </div>
 
 <div class="meta">
+ {% if rating %}<div class="rating"><a href="/about/">Rating</a>: <span class="rating-rate">{{ rating }}</span></div>{% endif %}
  {% if abv %}<div>{{ abv }} ABV</div>{% endif %}
- <div>First reviewed: {{ date | readableDate }}</div>
+ {% if date %}<div>First reviewed: {{ date | readableDate }}</div>{% endif %}
  {% if bottles > 0 %}<div>In the library</div>{% endif %}
 </div>
 
