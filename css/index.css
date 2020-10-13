@@ -234,12 +234,6 @@ p.glassdivider {
   margin-bottom: 1rem;
 }
 
-.rating-rate {
-  display: inline-block; 
-  border: 1px solid #666;
-  padding: 2px 8px;
-}
-
 @media (hover) {
   .tagg:hover {
     text-decoration: underline;
